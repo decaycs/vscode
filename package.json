@@ -1,0 +1,28 @@
+{
+    "name": "decay",
+    "displayName": "Decay",
+    "description": "Decay colorscheme now ported to vscode! :3",
+    "version": "0.0.1",
+    "author": "decaycs",
+    "repository": "https://github.com/decaycs/vscode",
+    "engines": {
+        "vscode": "^1.67.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Decay Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/decay.json"
+            },
+            {
+                "label": "Dark Decay Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-decay.json"
+            }
+        ]
+    }
+}
