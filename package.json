@@ -6,7 +6,7 @@
     "author": "decaycs",
     "repository": "https://github.com/decaycs/vscode",
     "engines": {
-        "vscode": "^1.67.1"
+        "vscode": "^1.63.1"
     },
     "categories": [
         "Themes"
