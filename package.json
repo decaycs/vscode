@@ -22,6 +22,11 @@
                 "label": "Dark Decay Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-decay.json"
+            },
+            {
+                "label": "Light Decay Theme",
+                "uiTheme": "vs",
+                "path": "./themes/light-decay.json"
             }
         ]
     }
