@@ -2,7 +2,7 @@
     "name": "decay",
     "displayName": "Decay",
     "description": "Decay colorscheme now ported to vscode! :3",
-    "version": "0.0.1",
+    "version": "0.1.5",
     "author": "decaycs",
     "repository": "https://github.com/decaycs/vscode",
     "engines": {
