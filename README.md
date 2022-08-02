@@ -18,7 +18,7 @@ git clone https://github.com/decaycs/vscode decay-vscode
 
 After that, you will get the vscode port files into a folder named `decay-vscode`
 
-> If you want, you can only download the [vsix](./decay-0.0.1.vsix) file
+> If you want, you can only download the [vsix](./decay-1.0.0.vsix) file
 
 ### Installing from vsix
 
@@ -26,6 +26,17 @@ After that, you will get the vscode port files into a folder named `decay-vscode
 2. Open the extensions section
 3. Click in the three dots at the top-right of the sidebar
 4. Press in `Install from VSIX...`
-5. Explore and search for the VSIX provided in this repo (it's [this](./decay-0.0.1.vsix))
-6. Select `Decay` or `Dark Decay` from the vscode themes selector!
-7. Enjoy :3
+5. Explore and search for the VSIX provided in this repo (it's [this](./decay-1.0.0.vsix))
+
+### Selecting theme
+
+Decay is supporting 4 palettes right now, you can select either:
+
+- Light Decay: Light version :P
+- Decay: The original theme :)
+- Dark Decay: A darker version of decay :D
+- Decayce: A colder version of dark decay :3
+
+### Enjoy
+
+Hope you enjoy with this! and remember to smash the star button if u like this!
