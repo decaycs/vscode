@@ -38,7 +38,7 @@ After that, you will get the vscode port files into a folder named `decay-vscode
 1. Go and open vscode
 2. Open the extensions section
 3. Click in the three dots at the top-right of the sidebar
-4. Press in `Install from VSIX...`
+4. Click `Install from VSIX...`
 5. Explore and search for the VSIX provided in this repo (it's [this](./decay-1.0.4.vsix))
 
 ### Selecting theme
