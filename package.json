@@ -1,44 +1,44 @@
 {
-    "name": "decay",
-    "displayName": "Decay",
-    "description": "Decay colorscheme now ported to vscode! :3",
-    "version": "1.0.6",
-    "author": "decaycs",
-    "publisher": "decaycs",
-    "icon": "assets/logo.png",
-    "license": "See license in LICENSE",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/decaycs/vscode"
-    },
-    "engines": {
-        "vscode": "^1.63.1"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Decay Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/decay.json"
-            },
-            {
-                "label": "Decayce Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/decayce.json"
-            },
-            {
-                "label": "Dark Decay Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark-decay.json"
-            },
-            {
-                "label": "Light Decay Theme",
-                "uiTheme": "vs",
-                "path": "./themes/light-decay.json"
-            }
-        ]
-    }
+  "name": "decay",
+  "displayName": "Decay",
+  "description": "Decay colorscheme now ported to vscode! :3",
+  "version": "1.0.7",
+  "author": "decaycs",
+  "publisher": "decaycs",
+  "icon": "assets/logo.png",
+  "license": "See license in LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decaycs/vscode"
+  },
+  "engines": {
+    "vscode": "^1.63.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Decay Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/decay.json"
+      },
+      {
+        "label": "Decayce Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/decayce.json"
+      },
+      {
+        "label": "Dark Decay Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-decay.json"
+      },
+      {
+        "label": "Light Decay Theme",
+        "uiTheme": "vs",
+        "path": "./themes/light-decay.json"
+      }
+    ]
+  }
 }
