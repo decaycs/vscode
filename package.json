@@ -20,22 +20,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Decay Theme",
+        "label": "Decay",
         "uiTheme": "vs-dark",
         "path": "./themes/decay.json"
       },
       {
-        "label": "Decayce Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/decayce.json"
-      },
-      {
-        "label": "Dark Decay Theme",
+        "label": "Dark Decay",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-decay.json"
       },
       {
-        "label": "Light Decay Theme",
+        "label": "Decayce",
+        "uiTheme": "vs-dark",
+        "path": "./themes/decayce.json"
+      },
+      {
+        "label": "Cosmic Decay",
+        "uiTheme": "vs",
+        "path": "./themes/cosmic-decay.json"
+      },
+      {
+        "label": "Light Decay",
         "uiTheme": "vs",
         "path": "./themes/light-decay.json"
       }
