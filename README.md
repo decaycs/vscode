@@ -25,6 +25,8 @@ And you will get decay installed like a pro haxor lmfao
 
 ### Installing from VSIX
 
+**NOTE**: The cosmic decay variant is in very experimental phase, some highlights could be bad (darker and ugliest highlights lul).
+
 First clone the repo into your prefered directory using:
 
 ```sh
